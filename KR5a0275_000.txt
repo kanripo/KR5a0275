@@ -1,8 +1,7 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 太上黃庭外景經
-#+DATE: 2015-08-28 23:44:14
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-28 23:44:12.982057
+#+TITLE: 修真十書黃庭外景玉經注
+#+PROPERTY: DZID  DZ0263l
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，4—869 三卷 洞真部方法類
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-
+#+PROPERTY: WITNESS HFL
